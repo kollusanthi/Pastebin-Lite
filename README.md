@@ -1,4 +1,4 @@
-# Pastebin-Lite
+# Pastebin Lite
 
 A minimal Pastebin-like application built with Next.js.
 
